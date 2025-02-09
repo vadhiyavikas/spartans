@@ -1,32 +1,32 @@
 import { Instagram } from "lucide-react";
 const staffData = [
   {
-    image: "src/assets/Trainers/photo.png",
+    image: "/assets/Trainers/photo.png",
     name: "abc",
     instagram: "abc",
   },
   {
-    image: "src/assets/Trainers/photo (1).png",
+    image: "/assets/Trainers/photo (1).png",
     name: "abc",
     instagram: "abc",
   },
   {
-    image: "src/assets/Trainers/photo.png",
+    image: "/assets/Trainers/photo.png",
     name: "abc",
     instagram: "abc",
   },
   {
-    image: "src/assets/Trainers/photo (1).png",
+    image: "/assets/Trainers/photo (1).png",
     name: "abc",
     instagram: "abc",
   },
   {
-    image: "src/assets/Trainers/photo.png",
+    image: "/assets/Trainers/photo.png",
     name: "abc",
     instagram: "abc",
   },
   {
-    image: "src/assets/Trainers/photo (1).png",
+    image: "/assets/Trainers/photo (1).png",
     name: "abc",
     instagram: "abc",
   },

@@ -6,7 +6,7 @@ const Footer = () => {
       <div className="flex flex-col gap-3">
         <div className="flex items-center gap-2 cursor-pointer max-sm:justify-center" onClick={scrollToTop}>
           <img
-            src="src\assets\logos\updated-logo.png"
+            src="\assets\logos\updated-logo.png"
             width={72}
             className="rounded-full"
             alt="company-logo"

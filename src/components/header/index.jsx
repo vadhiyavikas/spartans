@@ -14,7 +14,7 @@ const Header = () => {
           className="text-white text-2xl font-bold flex gap-2 items-center"
         >
           <img
-            src="src/assets/logos/updated-logo.png"
+            src="/assets/logos/updated-logo.png"
             width={72}
             className="rounded-full"
           />

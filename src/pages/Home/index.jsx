@@ -19,7 +19,7 @@ const HomePage = () => {
         </div>
         <div className="flex justify-center">
           <img
-            src="src\assets\images\lovepik-gym-running-workout-picture_501311150.jpg"
+            src="\assets\images\lovepik-gym-running-workout-picture_501311150.jpg"
             alt="trainer-image"
             className="rounded-3xl"
           />
